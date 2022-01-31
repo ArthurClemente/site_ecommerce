@@ -1,0 +1,15 @@
+.home{
+    height: 100vh;
+    background-image: url(../../img/imgHome.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.home-linha{
+    display: flex;
+    margin: 0px 5px;
+    overflow: hidden;
+}

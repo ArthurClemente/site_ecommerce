@@ -1,0 +1,30 @@
+.carrinhocompras{
+    display: flex;
+    margin: 20px 0px;
+}
+
+.carrinhocompras-imagem {
+    object-fit: contain;
+    width: 160px;
+    height: 160px;
+    border: 1px solid #ccc;
+    border-radius: 5%;
+}
+
+.carrinhocompras-titulo {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.carrinhocompras-info {
+    padding-left: 20px;
+}
+
+.carrinhocompras-info > button {
+    cursor: pointer;
+    background-color: #14274E;
+    color: #fff;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #9BA4B4;
+}

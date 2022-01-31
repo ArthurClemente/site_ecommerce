@@ -1,0 +1,35 @@
+.footer{
+    background-color: #14274E;
+    width: 100%;
+    min-height: 6vh;
+    color: whitesmoke;
+}
+
+
+.footer-info {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footer-info a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.footer-areaDeInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-areaDeInfoSocial{
+    margin-top: 10px;
+}
+
+.footer-areaDeInfoSocial a{
+    padding: 0px 3px;
+}
